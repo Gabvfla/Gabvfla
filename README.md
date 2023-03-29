@@ -1,8 +1,8 @@
 ### Olá eu sou o Gabriel Victor
 ### Hi i'm Gabriel Victor
 
-<a title="Gvferrari, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Brazilian_flag_icon_round.svg"><img width="20" alt="Brazilian flag icon round" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a>
-<a title="Gvferrari, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Brazilian_flag_icon_round.svg"><img width="20" alt="Brazilian flag icon round" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
+<a title="Icone Brasil"><img width="20" alt="Bandeira Brasil" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></a>
+<a title="Icone Eua"><img width="20" alt="Bandeira Eua" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png"></a>
     
 
 <div style="display: inline_block"><br>
